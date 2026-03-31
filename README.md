@@ -15,7 +15,7 @@ A full-stack book catalog web application.
 
 ## Setup
 1. Clone the repo
-2. Copy `database.example.php` to `database.php`
-3. Fill in your database credentials
+2. Copy `database.example.php` to `database.php` and `databaseforbooks.php`
+3. Fill in with database credentials
 4. Import the SQL tables
 5. Run on a PHP server
